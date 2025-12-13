@@ -48,8 +48,9 @@ endmodule
 Developed by: Muruga S
 RegisterNumber: 25010785
 ```
-<img width="664" height="554" alt="Screenshot 2025-12-13 092554" src="https://github.com/user-attachments/assets/ef3ccf32-159d-4fa0-ba5a-9d1146e76338" />
+
 **RTL realization**
+<img width="664" height="554" alt="Screenshot 2025-12-13 092554" src="https://github.com/user-attachments/assets/ef3ccf32-159d-4fa0-ba5a-9d1146e76338" />
 
 **Output:**
 
